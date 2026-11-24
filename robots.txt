@@ -1,4 +1,4 @@
 User-agent: SemanticScholarBot
 Disallow: /
 
-Sitemap: https://ai.helpshared.com/sitemap.xml
+Sitemap: https://job.helpshared.com/sitemap.xml
